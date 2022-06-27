@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” and 3 lines after them in the file /ect/passwd
+Display all the lines in the file /ect/passwd that do not contain the pattern bin 
