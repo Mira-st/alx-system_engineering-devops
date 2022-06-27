@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories, sorted by users.
+Display the first 10 lines of /ect/passwd
