@@ -24,4 +24,4 @@
 
 ```
 
-## Author: **Afolabi John Oluwaseun**
+## Author: **Orire Kemi**
